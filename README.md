@@ -1,11 +1,11 @@
 # ManageIQ::Providers::Redhat
 
-<!-- [![CI](https://github.com/ManageIQ/manageiq-providers-red_hat_virtualization/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-red_hat_virtualization/actions/workflows/ci.yaml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/adb159273f2c5ba5c9b3/maintainability)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/adb159273f2c5ba5c9b3/test_coverage)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ovirt/test_coverage)
-[![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ovirt/master) -->
+[![CI](https://github.com/ManageIQ/manageiq-providers-red_hat_virtualization/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-red_hat_virtualization/actions/workflows/ci.yaml)
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-red_hat_virtualization.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-red_hat_virtualization)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-red_hat_virtualization/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-red_hat_virtualization/coverage)
+[![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ovirt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<!-- [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ovirt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
+[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-red_hat_virtualization?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-red_hat_virtualization/actions?query=branch%3Amaster)
 
 ManageIQ plugin for the Red Hat Virtualization provider.
 
